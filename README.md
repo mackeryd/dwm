@@ -1,4 +1,4 @@
-# Luke's build of dwm with systray patch
+#My build of Luke's build of dwm with systray patch
 
 ## FAQ
 
